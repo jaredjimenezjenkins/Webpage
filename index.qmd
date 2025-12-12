@@ -9,11 +9,21 @@ about:
 :::{#me}
 
 ## Goals
-
+Hello world! My name is Jared Jimenez-Jenkins, and here is my official webpage! Here, I'll show the world the work that I have been putting in throughout my graduate school studies. I am a data analyst and sociologist passionate about using data to drive equitable change globally. Ultimately, I'm striving to be the best me that I can be!
 ## Education
-
+University of Massachusetts Amherst
+Master of Science - MS, Data Analytics & Computational Social SciencesMaster of Science - MS, Data Analytics & Computational Social Sciences
+May 2024 - Dec 2025
+University of Massachusetts Amherst
+Sociology B.A., Certificate in Population Studies
+September 2020 - May 2024
 ## Experience
-
+YWCA NORTHEASTERN MASSACHUSETTS INC
+Part-time · 4 yrs 7 mos
+Educator
+Lawrence, Massachusetts, United States · On-siteLawrence, Massachusetts, United States · On-site
+During my time at YWCA Northeastern Massachusetts, I managed youth ages 5-12 in engaging activities while behaving in a positive manner throughout various activities at Camp Y-Wood. I also directed groups of 15-20 kids from the Greater Lawrence/Haverhill MA area throughout Camp Y-Wood's 8-week program. I supported my assigned group to for my group to obtain positive experiences from camp. I evaluated the kids I was assigned to on a daily basis while establishing a precedent towards how to make a positive impact on life through myself and my leadership. 
+As of 2024, I got promoted to be an educator for the YWCA Haverhill site. Here, I create monthly curriculums for my classroom with the goal of promoting brain engagement. With a diverse classroom of children ranging from ages 9 to 13, appealing to all ages as well as not creating overbearing activities is what makes such a position a valuable experience. Such activities within the curriculum ranged from subject based word scrambles to language learning. Student engagement has improved to 45% since being instated in my new role.
 :::
 
 Thanks for checking out my web site!
